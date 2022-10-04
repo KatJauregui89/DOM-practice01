@@ -80,7 +80,7 @@ function funcionAEjecutar(){
     contadorClicks++
 
     if (contadorClicks >= 10 ){
-        cheems.src = "./assets/img/cheems-ansioso.jpeg"
+        cheems.src = "./assets/img/cheems-ansioso.JPG"
         h2.innerText = "Esos son muchos click, me da amsiedad";
         cheems.classList.add("contenedor-rojo")
         // contenedorCheems.classList.add("contenedor-rojo");
